@@ -1,18 +1,3 @@
-# biyi_popclip
-
-Translate the text using `Biyi`.
-
-## Preview
-
-![demo](screenshots/demo.gif)
-
-## Installation
-
-Download the file from [Releases](https://github.com/biyidev/biyi_popclip/releases) and double click to install the extension.
-
-## License
-
-```text
 MIT License
 
 Copyright (c) 2021 LiJianying <lijy91@foxmail.com>
@@ -34,4 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```
